@@ -1,0 +1,46 @@
+
+
+}
+body {
+	font-color: #990000;
+	font-family: Impact;
+	background-image: url(drift.gif);
+	background-size: cover;
+	height: 100%;
+
+}
+
+h1{
+	font-color: #800000;
+	font-family:Impact;
+	font-size: 200px;
+
+}
+
+p {
+	font-family:Impact;
+	width: 900px;
+
+
+}
+
+body { background-color: #FFFF33 }
+
+
+
+.twoColumnContainer {
+		box-sizing: border-box;
+		margin: 30 px;
+		padding: 30 px;
+		width: 100%;
+}
+
+.oneColumn {
+	box-sizing: border-box;
+	display: inline-block;
+	vertical-align: top;
+	margin: 0px;
+	margin-bottom: 40px;
+	padding: 0px;
+	width: 49%;
+}
